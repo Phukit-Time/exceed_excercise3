@@ -60,3 +60,4 @@
 | Peerasu Puttakul | Lunch | [Peerasu](https://github.com/Peerasu) |
 | Yannakorn Banjongwattana | Nightfood | [keenynk](https://github.com/keenynk) |
 | Rachata Peeranunrungsri | Dinner | [sinlnw](https://github.com/sinlnw) |
+| Onnalin Suwannas | Beverages | [TzukiChan](https://github.com/TzukiChan) |
