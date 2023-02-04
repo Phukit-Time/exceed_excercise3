@@ -8,9 +8,10 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-    items                          Price
-    kaprao                         40 Baht
-    Spaghetti                      50 Baht
+    | Items | price |
+    | --- | --- |
+    | กะเพราะ | 30 |
+    | สปาเก็ตตี้ | 50 |
     
 ## Dinner
 
