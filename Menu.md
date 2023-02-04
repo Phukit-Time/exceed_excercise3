@@ -3,13 +3,20 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+|Item|Price|
+|----|-----|
+|ข้าวไข่เจียว|20|
+|ข้าวไข่ดาว|20|
+|ข้าวหมูทอด|20|
+    
 
 ## Lunch 
 
-
+| Items | price |
+| --- | --- |
+| กะเพราะ | 30 |
+| สปาเก็ตตี้ | 50 |
+    
 ## Dinner
 
 | Item | Price |
@@ -25,8 +32,10 @@
 
 
 ## Beverages
-
-
+| Item | Price |
+| --- | --- |
+| อเมริกาโน่ | 40 |
+| คาปูชิโน่ | 50 |
 
 ---
 
