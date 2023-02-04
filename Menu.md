@@ -8,10 +8,11 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-    | Items | price |
-    | --- | --- |
-    | กะเพราะ | 30 |
-    | สปาเก็ตตี้ | 50 |
+
+| Items | price |
+| --- | --- |
+| กะเพราะ | 30 |
+| สปาเก็ตตี้ | 50 |
     
 ## Dinner
 
